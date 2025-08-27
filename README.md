@@ -1,2 +1,2 @@
-# Binary-Classification-with-a-Bank-Dataset
-SWAG :Playground Series - Season 5, Episode 8
+# Predict-Liver-Cancer-from-Clinical-Features
+[CTAI - CTD Hackathon](https://www.kaggle.com/competitions/ctai-ctd-hackathon)
